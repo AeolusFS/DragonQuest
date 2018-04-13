@@ -9,4 +9,6 @@
  
  dragonquest.html : the main code of the game, created using Twine. 
  
+ ## Watch Trailer - https://www.youtube.com/channel/UCv0gVEY01H_rOT_kjq-EXQA?view_as=subscriber
+ 
 # To play, press the green "Clone or Download",  Download the ZIP file, extract the ZIP folder into a folder of your choice. Then open dragonquest.html in the same directory as the folder assets in any web browser. If it doesn't work, try using a different browser, like Google Chome where we did all of our testing.
