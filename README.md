@@ -11,4 +11,4 @@
  
 # To play, press the green "Clone or Download",  Download the ZIP file, extract the ZIP folder into a folder of your choice. Then open dragonquest.html in the same directory as the folder assets in any web browser. If it doesn't work, try using a different browser, like Google Chome where we did all of our testing.
 
-## Watch Trailer - https://www.youtube.com/watch?v=oGmEzfixHqw
+## Watch Trailer - https://www.youtube.com/watch?v=w77T-H4zvKs&t=5s
